@@ -1,0 +1,1 @@
+costArray = require('./cost')
